@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.flex{
+  display: flex;
+  list-style: none;
+  margin: 10px;
+  /* justify-content: space-evenly; */
+}
+.nav-link{
+  font-size: small;
+  text-decoration: none;
+  /* color: blue; */
+}
+.nav-item{
+  list-style: none;
+  
+
+}
+.about{
+  background-color: rgb(88, 88, 235);
+}
+.main{
+  background-color: rgb(108, 182, 231);
+  /* box-shadow: inset; */
+}
+.heading{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.image{
+  border-radius: 70%;
+}
+.logo3{
+  height: 10px;
+}
+.card{
+  transition: all 0.5s;
+  box-shadow: 5px 5px 4px 2px rgba(53,53,53,0.363);
+  border: 2px solid white;
+}
+.card:hover{
+  box-shadow: 16px 16px 15px 10px rgba(53,53,53,0.363);
+}
+.success{
+  /* display: flex; */
+  /* justify-content: center; */
+  background-image: url('./Component/Image/Ellipse\ 2.png');
+  background-size: cover;
+  background-position: center;
+  height: 30vh ;
+  overflow: hidden;
+}
+.imgsuccess{
+  width: 100vw;
+}
