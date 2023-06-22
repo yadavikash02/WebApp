@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebApp/static/css/main.5981b250.css",
+    "main.js": "/WebApp/static/js/main.3d236b8c.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/WebApp/static/js/787.9cb3e5b4.chunk.js",
+    "static/media/Ecosystem.jpg": "/WebApp/static/media/Ecosystem.a32e6cdecf055f84cb33.jpg",
+    "index.html": "/WebApp/index.html",
+    "main.5981b250.css.map": "/WebApp/static/css/main.5981b250.css.map",
+    "main.3d236b8c.js.map": "/WebApp/static/js/main.3d236b8c.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/WebApp/static/js/787.9cb3e5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5981b250.css",
+    "static/js/main.3d236b8c.js"
+  ]
+}
